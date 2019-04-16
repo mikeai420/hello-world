@@ -1,2 +1,2 @@
 # hello-world
-Greeting everyone :)
+Greeting everyone! Welcome to my repository! :)
